@@ -17,3 +17,6 @@ It contains:
 # How to use this:
 
 To use this you have to create ./db/password.txt with a password in it. 
+If you need it you can create the .env file with API keys in it.
+Database in init.sql and in compose.yaml have to fit.
+Add requirements in requirements.txt.
